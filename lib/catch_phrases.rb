@@ -20,8 +20,13 @@ end
 
 
 def any_phrase(phrase)
+<<<<<<< HEAD
   phrase = "Do A Barrel Roll!\n"
   puts phrase
+=======
+  phrase = "Do A Barrel Roll!"
+  return "takes in an argument and puts out the catch phrase"
+>>>>>>> ae9daf0d727d24a17827646b5b10dc873183622e
 end
 
 
